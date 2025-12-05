@@ -19,7 +19,11 @@ En la industria de eventos, existen múltiples puntos que afectan tanto a organi
 **Para Patrocinadores:**
 -  **ROI incierto**: No hay métricas claras del retorno de inversión
 -  **Falta de seguimiento**: Dificultad para medir la exposición de marca obtenida
+ ###  SOLUCIÓN
 
+**EventHub**: Plataforma Integral de Gestión de Eventos
+
+Una **API REST robusta y escalable** que centraliza toda la operación de eventos en un solo ecosistema digital.
 #### Características Principales:
 
 #####  Gestión Completa de Eventos
