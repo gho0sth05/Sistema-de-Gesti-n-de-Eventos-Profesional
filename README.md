@@ -1,5 +1,7 @@
 # 🎉 EventHub - Sistema de Gestión de Eventos Profesional
+---
 ###  PROBLEMA
+---
 
 #### Situación Actual:
 En la industria de eventos, existen múltiples puntos que afectan tanto a organizadores como a asistentes como lo son :
@@ -19,7 +21,10 @@ En la industria de eventos, existen múltiples puntos que afectan tanto a organi
 **Para Patrocinadores:**
 -  **ROI incierto**: No hay métricas claras del retorno de inversión
 -  **Falta de seguimiento**: Dificultad para medir la exposición de marca obtenida
+
+ ---
  ###  SOLUCIÓN
+ ---
 
 **EventHub**: Plataforma Integral de Gestión de Eventos
 
