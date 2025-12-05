@@ -245,18 +245,7 @@ En la industria de eventos, existen múltiples puntos que afectan tanto a organi
 ---
 
 ##  Dependencias Entre Apps
-┌─────────────┐
-│   EVENTS    │◄─────┐
-│   (Sarah)   │      │
-└──────┬──────┘      │
-       │             │
-       ├─────────────┼─────────────┐
-       │             │             │
-       ▼             ▼             ▼
-┌─────────────┐ ┌─────────────┐ ┌─────────────┐
-│   TICKETS   │ │  ATTENDEES  │ │  SPONSORS   │
-│   (Karen)   │ │ (Neyireth)  │ │   (Aslhy)   │
-└─────────────┘ └─────────────┘ └─────────────┘
+
 - Todas las apps dependen de EVENTS como modelo central
 
 **Todas las apps dependen de EVENTS como modelo central.**
